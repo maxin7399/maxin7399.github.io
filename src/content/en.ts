@@ -39,8 +39,8 @@ export const en: Content = {
       },
       {
         name: 'FerreAPI',
-        tagline: 'Inventory & invoicing',
-        period: '2026',
+        tagline: 'Software developer (freelance)',
+        period: 'Jul 2026 – present',
         repo: 'https://github.com/maxin7399/FerreAPI',
         stack: ['C#', 'ASP.NET Core', 'EF Core', 'PostgreSQL', 'JWT', 'xUnit', 'Testcontainers'],
         points: [
